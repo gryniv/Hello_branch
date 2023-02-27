@@ -53,4 +53,3 @@ For create new Circular Buffer input (where `10` is length of buffer):
 ## Linked List & ArrayList 
 Create own realisation of LinkedList And ArrayList
 
-d
