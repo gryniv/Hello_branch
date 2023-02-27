@@ -1,15 +1,4 @@
 
-
-    - [Calculator](#math-calculator)
-    - [Hash Calculator](#hash-calculator)
-    - [Circular Buffer](#circular-buffer)
-
-     
-
-      
----
-
-
 ###  Calculator
 In Math Calculator you need to implement realisation for input any line with math operations and get output with the correct answer.
 
