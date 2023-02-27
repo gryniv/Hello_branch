@@ -1,9 +1,7 @@
-# Resolved Tasks
-Some completed here, some in another project and copied here for more comfortable see it
-- [Resolved Tasks](##resolved-tasks)
-    - [Calculator](#calculator)
-        - [Math Calculator](#math-calculator)
-        - [Hash Calculator](#hash-calculator)
+
+
+    - [Calculator](#math-calculator)
+    - [Hash Calculator](#hash-calculator)
     - [Circular Buffer](#circular-buffer)
 
      
@@ -11,10 +9,8 @@ Some completed here, some in another project and copied here for more comfortabl
       
 ---
 
-## Calculator
-Here I've created realization for **Math Calculator** and **Hash Calculator**
 
-### Math Calculator
+###  Calculator
 In Math Calculator you need to implement realisation for input any line with math operations and get output with the correct answer.
 
 To run this program you need to run
